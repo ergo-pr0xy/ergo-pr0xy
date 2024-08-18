@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I'm Nikita!
+
+A beginner frontend developer.
+A student at [Hexlet programming school](https://ru.hexlet.io/)
 
 
-**ergo-pr0xy/ergo-pr0xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
