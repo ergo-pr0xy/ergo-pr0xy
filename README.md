@@ -1,6 +1,5 @@
-## Hi there 👋 I'm Nikita, a beginner frontend developer!
+## Hi there 👋 I'm Nikita!
 
-* I'm a student at [Hexlet](https://ru.hexlet.io/) programming school
-
- * I've alrady finished three out of four projects via Hexlet Frontend-Developer Profession and now
- I'm working on my 4th project - Chat (simplified version of Slack).
+ * Technical specialist with an engineering background, currently developing skills in IT infrastructure, system administration and networking.
+I have practical experience with JavaScript, HTML, CSS, React and Git, as well as engineering and technical documentation.
+Currently focusing on TCP/IP, computer networks, operating systems and system administration.
